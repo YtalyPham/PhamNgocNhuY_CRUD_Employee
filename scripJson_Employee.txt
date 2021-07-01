@@ -32,18 +32,18 @@
         "position": "Rapper"
     },
     {
-        "firstName": "8",
-        "lastName": "8",
-        "position": "8"
+        "firstName": "7",
+        "lastName": "7",
+        "position": "7"
     }
 ]
 =====Put Method===URL: http://localhost:8080/employee
 {
-	"id":8,
+	"id":7,
         "firstName": "10",
         "lastName": "10",
         "position": "10"
 }
-=====Delete Method===URL: http://localhost:8080/employee/8
 =====GET ALL Method===URL: http://localhost:8080/employee
-=====GET BY ID Method===URL: http://localhost:8080/employee/8
+=====GET BY ID Method===URL: http://localhost:8080/employee/7
+=====Delete Method===URL: http://localhost:8080/employee/7
