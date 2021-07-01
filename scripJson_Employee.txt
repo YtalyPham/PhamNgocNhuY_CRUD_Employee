@@ -1,0 +1,49 @@
+-Sau khi chạy Rest Project, em sẽ test bằng Postman
+=====Post Method===URL: http://localhost:8080/employee
+[
+    {
+        "firstName": "John",
+        "lastName": "Cena",
+        "position": "WWESuperStar"
+    },
+    {
+        "firstName": "Tony",
+        "lastName": "Pham",
+        "position": "IT"
+    },
+    {
+        "firstName": "Jonny",
+        "lastName": "Dang",
+        "position": "Dimond Saler"
+    },
+    {
+        "firstName": "Pug",
+        "lastName": "Khoa",
+        "position": "Youtuber"
+    },
+    {
+        "firstName": "Vuong",
+        "lastName": "Pham",
+        "position": "Farmer"
+    },
+    {
+        "firstName": "Ricky",
+        "lastName": "Star",
+        "position": "Rapper"
+    },
+    {
+        "firstName": "8",
+        "lastName": "8",
+        "position": "8"
+    }
+]
+=====Put Method===URL: http://localhost:8080/employee
+{
+	"id":8,
+        "firstName": "10",
+        "lastName": "10",
+        "position": "10"
+}
+=====Delete Method===URL: http://localhost:8080/employee/8
+=====GET ALL Method===URL: http://localhost:8080/employee
+=====GET BY ID Method===URL: http://localhost:8080/employee/8
